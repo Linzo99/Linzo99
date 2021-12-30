@@ -32,17 +32,35 @@
  print(skills)
 ```
 ### Some Projects ?
-<!--
-**Linzo99/Linzo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ * #### SenStream
+  > Regarder les Series Sénégalaise sans publicité
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table border="0">
+  <tr>
+    <td><img src="assets/project3/senstream1.png"  alt="1" width = 260px height = 360px ></td>
+    <td><img src="assets/project3/senstream2.png"  alt="1" width = 260px height = 360px ></td>
+    <td><img src="assets/project3/senstream3.png"  alt="1" width = 260px height = 360px ></td>
+    <td><img src="assets/project3/senstream5.png"  alt="1" width = 260px height = 360px ></td>
+  </tr>
+</table>
+
+### Some Projects ?
+
+ * #### StudyBook
+  > Impossible de gérer vos notes de cours ? <br/>
+  > Ayez votre propre gestionnaire, votre drive personnel et rangez vos documents comme vous voulez
+
+<table border="0">
+  <tr>
+    <td><img src="assets/project2/studybook1.png"  alt="1" width = 260px height = 400px ></td>
+    <td><img src="assets/project2/studybook2.png"  alt="1" width = 260px height = 400px ></td>
+    <td><img src="assets/project2/studybook3.png"  alt="1" width = 260px height = 400px ></td>
+  </tr>
+</table>
+
+#### And many other projects
+
+
+- 🔭 I’m currently working on some personnal projects but can do part time 
+- ⚡ Fun fact: ??????    :)
