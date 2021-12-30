@@ -45,8 +45,6 @@
   </tr>
 </table>
 
-### Some Projects ?
-
  * #### StudyBook
   > Impossible de gérer vos notes de cours ? <br/>
   > Ayez votre propre gestionnaire, votre drive personnel et rangez vos documents comme vous voulez
