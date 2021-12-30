@@ -9,6 +9,9 @@
 >> Full-Stack developper.
 
 ### Skills ?
+<details>
+  <summary>click to expand</summary>
+  
 ```python
   class Skills:
     def __init__(self):
@@ -31,7 +34,12 @@
  skills = Skills()
  print(skills)
 ```
+</details>
+
 ### Some Projects ?
+
+<details>
+  <summary>click to expand</summary>
 
  * #### SenStream
   > Regarder les Series Sénégalaise sans publicité
@@ -58,6 +66,8 @@
 </table>
 
 #### And many other projects
+  
+</details>
 
 
 - 🔭 I’m currently working on some personnal projects but can do part time 
