@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linzo99" alt="linzo99" /></a> </p>
 
-- 🔭 I’m currently working on [xassida.sn](xassida.sn)
+- 🔭 I’m currently working on [xassida.sn](https://www.xassida.sn)
 
 - 🌱 I’m currently learning **DevOps, Laravel, Cloud**
 
-- 🤝 I’m looking for help with [xassida.sn](xassida.sn)
+- 🤝 I’m looking for help with [xassida.sn](https://www.xassida.sn)
 
 - 💬 Ask me about **react, nextjs, python, django**
 
